@@ -1,0 +1,14 @@
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.deps.json
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.dll
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.runtimeconfig.json
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.runtimeconfig.dev.json
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.pdb
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.dll
+C:\Users\hells\Documents\Visual Studio 2017\Projects\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.pdb
