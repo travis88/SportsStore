@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace SportsStore.Models
 {
-    public class FakeProductRepository : IProductRepository
+    public class FakeProductRepository /*: IProductRepository*/
     {
         public IEnumerable<Product> Products => new List<Product>
         {
@@ -13,5 +13,7 @@ namespace SportsStore.Models
             new Product {Name = "Surf board", Price = 179},
             new Product {Name = "Running shoes", Price = 95}
         };
+
+        public void SaveProduct(Product product) { }
     }
 }
